@@ -1,0 +1,19 @@
+{
+  "name": "Sequence Clear | 詰め手順パズル",
+  "short_name": "Sequence Clear",
+  "description": "決まった順番のピースを、どこで・どの向きで置くか。最後の1手で盤面が消し切れる順番を見つけよう。",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f7",
+  "theme_color": "#eef2f7",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
